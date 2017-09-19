@@ -1,7 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <Authors>Johnny Hansson</Authors>
+    <Company />
+    <Description>Client for sending Wake on LAN packages.</Description>
   </PropertyGroup>
 
 </Project>
